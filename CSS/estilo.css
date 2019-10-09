@@ -1,0 +1,29 @@
+.card-largura{
+    max-width: 18rem;
+}
+
+h1, h2{
+    color: whitesmoke;
+
+}
+
+.imagem-carrossel{
+    object-fit: cover;
+    object-position: 0 80%;
+    height:400px;
+}
+
+.fonte-carrossel{
+    font-family: 'Rock Salt', cursive;
+}
+
+.cor-especial{
+    color: white;
+    background-color: MediumOrchid;
+}
+
+.imagens-diversas{
+    object-fit: cover;
+    /*object-position: 0 80%;*/
+    height:200px;
+}
